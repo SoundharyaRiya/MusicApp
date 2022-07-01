@@ -1,4 +1,4 @@
-# MusicApp
+# MusicApp Backend
 "Full Stack Web Development Music_App - Internship Project"
 
 Technologies and Software used:
